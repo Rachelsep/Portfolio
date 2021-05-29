@@ -114,19 +114,6 @@ p {
   text-decoration: underline;
 }
 
-.app-img {
-  display: flex;
-  justify-content: center;
-  margin: 0 auto;
-  width: 90%;
-  margin-bottom: 24px;
-  border-style: solid;
-  border-width: 5px;
-  border-radius: 5px;
-  border-color: white;
-  box-shadow: 0px 0px 10px rgb(191, 191, 191);
-}
-
 #contact {
   margin-top: 20px;
 }
